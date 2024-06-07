@@ -1,0 +1,36 @@
+D:\4to Semestre\Proyecto para sis457\Sis457Licoreria\CadLicoreria\bin\Debug\CadLicoreria.dll.config
+D:\4to Semestre\Proyecto para sis457\Sis457Licoreria\CadLicoreria\bin\Debug\CadLicoreria.dll
+D:\4to Semestre\Proyecto para sis457\Sis457Licoreria\CadLicoreria\bin\Debug\CadLicoreria.pdb
+D:\4to Semestre\Proyecto para sis457\Sis457Licoreria\CadLicoreria\bin\Debug\EntityFramework.dll
+D:\4to Semestre\Proyecto para sis457\Sis457Licoreria\CadLicoreria\bin\Debug\EntityFramework.SqlServer.dll
+D:\4to Semestre\Proyecto para sis457\Sis457Licoreria\CadLicoreria\bin\Debug\EntityFramework.xml
+D:\4to Semestre\Proyecto para sis457\Sis457Licoreria\CadLicoreria\bin\Debug\EntityFramework.SqlServer.xml
+D:\4to Semestre\Proyecto para sis457\Sis457Licoreria\CadLicoreria\obj\Debug\CadLicoreria.csproj.AssemblyReference.cache
+D:\4to Semestre\Proyecto para sis457\Sis457Licoreria\CadLicoreria\obj\Debug\CadLicoreria.csproj.CoreCompileInputs.cache
+D:\4to Semestre\Proyecto para sis457\Sis457Licoreria\CadLicoreria\obj\Debug\CadLicor.E1A2EEFC.Up2Date
+D:\4to Semestre\Proyecto para sis457\Sis457Licoreria\CadLicoreria\obj\Debug\CadLicoreria.dll
+D:\4to Semestre\Proyecto para sis457\Sis457Licoreria\CadLicoreria\obj\Debug\CadLicoreria.pdb
+D:\4to Semestre\Proyecto Sis457\Sis457_RuthSimona_Licoreria\Sis457Licoreria\CadLicoreria\bin\Debug\CadLicoreria.dll.config
+D:\4to Semestre\Proyecto Sis457\Sis457_RuthSimona_Licoreria\Sis457Licoreria\CadLicoreria\bin\Debug\CadLicoreria.dll
+D:\4to Semestre\Proyecto Sis457\Sis457_RuthSimona_Licoreria\Sis457Licoreria\CadLicoreria\bin\Debug\CadLicoreria.pdb
+D:\4to Semestre\Proyecto Sis457\Sis457_RuthSimona_Licoreria\Sis457Licoreria\CadLicoreria\bin\Debug\EntityFramework.dll
+D:\4to Semestre\Proyecto Sis457\Sis457_RuthSimona_Licoreria\Sis457Licoreria\CadLicoreria\bin\Debug\EntityFramework.SqlServer.dll
+D:\4to Semestre\Proyecto Sis457\Sis457_RuthSimona_Licoreria\Sis457Licoreria\CadLicoreria\bin\Debug\EntityFramework.xml
+D:\4to Semestre\Proyecto Sis457\Sis457_RuthSimona_Licoreria\Sis457Licoreria\CadLicoreria\bin\Debug\EntityFramework.SqlServer.xml
+D:\4to Semestre\Proyecto Sis457\Sis457_RuthSimona_Licoreria\Sis457Licoreria\CadLicoreria\obj\Debug\CadLicoreria.csproj.AssemblyReference.cache
+D:\4to Semestre\Proyecto Sis457\Sis457_RuthSimona_Licoreria\Sis457Licoreria\CadLicoreria\obj\Debug\CadLicoreria.csproj.CoreCompileInputs.cache
+D:\4to Semestre\Proyecto Sis457\Sis457_RuthSimona_Licoreria\Sis457Licoreria\CadLicoreria\obj\Debug\CadLicor.E1A2EEFC.Up2Date
+D:\4to Semestre\Proyecto Sis457\Sis457_RuthSimona_Licoreria\Sis457Licoreria\CadLicoreria\obj\Debug\CadLicoreria.dll
+D:\4to Semestre\Proyecto Sis457\Sis457_RuthSimona_Licoreria\Sis457Licoreria\CadLicoreria\obj\Debug\CadLicoreria.pdb
+D:\4to Semestre\OFICIAL SIS 457\Sis457_Ruth_Licoreria\Sis457Licoreria\CadLicoreria\bin\Debug\CadLicoreria.dll.config
+D:\4to Semestre\OFICIAL SIS 457\Sis457_Ruth_Licoreria\Sis457Licoreria\CadLicoreria\bin\Debug\CadLicoreria.dll
+D:\4to Semestre\OFICIAL SIS 457\Sis457_Ruth_Licoreria\Sis457Licoreria\CadLicoreria\bin\Debug\CadLicoreria.pdb
+D:\4to Semestre\OFICIAL SIS 457\Sis457_Ruth_Licoreria\Sis457Licoreria\CadLicoreria\bin\Debug\EntityFramework.dll
+D:\4to Semestre\OFICIAL SIS 457\Sis457_Ruth_Licoreria\Sis457Licoreria\CadLicoreria\bin\Debug\EntityFramework.SqlServer.dll
+D:\4to Semestre\OFICIAL SIS 457\Sis457_Ruth_Licoreria\Sis457Licoreria\CadLicoreria\bin\Debug\EntityFramework.xml
+D:\4to Semestre\OFICIAL SIS 457\Sis457_Ruth_Licoreria\Sis457Licoreria\CadLicoreria\bin\Debug\EntityFramework.SqlServer.xml
+D:\4to Semestre\OFICIAL SIS 457\Sis457_Ruth_Licoreria\Sis457Licoreria\CadLicoreria\obj\Debug\CadLicoreria.csproj.AssemblyReference.cache
+D:\4to Semestre\OFICIAL SIS 457\Sis457_Ruth_Licoreria\Sis457Licoreria\CadLicoreria\obj\Debug\CadLicoreria.csproj.CoreCompileInputs.cache
+D:\4to Semestre\OFICIAL SIS 457\Sis457_Ruth_Licoreria\Sis457Licoreria\CadLicoreria\obj\Debug\CadLicor.E1A2EEFC.Up2Date
+D:\4to Semestre\OFICIAL SIS 457\Sis457_Ruth_Licoreria\Sis457Licoreria\CadLicoreria\obj\Debug\CadLicoreria.dll
+D:\4to Semestre\OFICIAL SIS 457\Sis457_Ruth_Licoreria\Sis457Licoreria\CadLicoreria\obj\Debug\CadLicoreria.pdb

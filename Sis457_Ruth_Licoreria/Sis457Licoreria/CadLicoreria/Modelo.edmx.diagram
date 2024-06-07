@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="3385ea875aa642bd87b845c5c888bd69" Name="Diagram1" ZoomLevel="61">
+        <EntityTypeShape EntityType="LabLicoreriaModel.Categoria" Width="1.5" PointX="5.625" PointY="1.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="LabLicoreriaModel.Cliente" Width="1.5" PointX="9" PointY="9.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="LabLicoreriaModel.Compra" Width="1.5" PointX="7.125" PointY="5.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="LabLicoreriaModel.Detalle_Compra" Width="1.5" PointX="10.75" PointY="1.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="LabLicoreriaModel.Detalle_Venta" Width="1.5" PointX="14.25" PointY="5.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="LabLicoreriaModel.Empleado" Width="1.5" PointX="0.75" PointY="6" IsExpanded="true" />
+        <EntityTypeShape EntityType="LabLicoreriaModel.Producto" Width="1.5" PointX="8.25" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="LabLicoreriaModel.Proveedor" Width="1.5" PointX="3" PointY="2.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="LabLicoreriaModel.Usuario" Width="1.5" PointX="3.625" PointY="5" IsExpanded="true" />
+        <EntityTypeShape EntityType="LabLicoreriaModel.Venta" Width="1.5" PointX="3.625" PointY="8.375" IsExpanded="true" />
+        <AssociationConnector Association="LabLicoreriaModel.FK__Producto__idCate__3E52440B" ManuallyRouted="false" />
+        <AssociationConnector Association="LabLicoreriaModel.fk_Venta_Cliente" ManuallyRouted="false" />
+        <AssociationConnector Association="LabLicoreriaModel.FK__Compra__idProvee__5165187F" ManuallyRouted="false" />
+        <AssociationConnector Association="LabLicoreriaModel.FK__Compra__idUsuari__5070F446" ManuallyRouted="false" />
+        <AssociationConnector Association="LabLicoreriaModel.FK__Detalle_C__idCom__5629CD9C" ManuallyRouted="false" />
+        <AssociationConnector Association="LabLicoreriaModel.FK__Detalle_C__idPro__571DF1D5" ManuallyRouted="false" />
+        <AssociationConnector Association="LabLicoreriaModel.fk_VentaDetalle_Producto" ManuallyRouted="false" />
+        <AssociationConnector Association="LabLicoreriaModel.fk_VentaDetalle_Venta" ManuallyRouted="false" />
+        <AssociationConnector Association="LabLicoreriaModel.FK__Usuario__idEmple__38996AB5" ManuallyRouted="false" />
+        <AssociationConnector Association="LabLicoreriaModel.fk_Venta_Usuario" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
